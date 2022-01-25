@@ -21,7 +21,7 @@
   },
   "dependencies": {},
   "jest": {
-    "modulePathIgnorePatterns": ["<rootDir>/Aula 1", "<rootDir>/Aula 3", "<rootDir>/Aula 4"],
+    "modulePathIgnorePatterns": ["<rootDir>/Aula 1", "<rootDir>/Aula 3", "<rootDir>/Aula 4", "<rootDir>/Aula 5"],
     "collectCoverage": true,
     "coverageReport": ["html"]
   }
